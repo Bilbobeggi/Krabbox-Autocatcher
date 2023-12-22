@@ -1,4 +1,4 @@
-# Krabbox-Autocatcher
+# [Krabbox-Autocatcher](https://discord.gg/autocatch)
 An all purpose Pokétwo farming software which supports various features like AI based Pokémon recognition, automatic voting, market snipers, captcha verifiers.... [Scroll down to see working](#trailworking)
 
 
