@@ -30,7 +30,7 @@ An all purpose Pokétwo farming software which supports various features like AI
 - `whitelist <add/remove> <id>` - Whitelists a given server ID or the current server
 - `toggle <log/spam/incense> <on/off>` - Toggles the given argument on or off (Incense arg for autobuy incense)
 - `spam <add/remove> <id>` - Changes spamming channel IDs..
-## - Utility 🕶
+## Utility 🕶
 - `trade <bulk/shiny/rare/leg/ub/myth/?customArgs> <id>` - Trades the corresponding argument to the user mentioned
 - `buy <shards/redeem/charm/marketId>` - Buys the item given in the argument
 - `stats` - Displays all stats such as catches, misses, rare catches, shinies, catch rate....
