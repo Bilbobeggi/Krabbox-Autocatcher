@@ -2,7 +2,7 @@
 An all purpose Pokétwo farming software which supports various features like AI based Pokémon recognition, automatic voting, market snipers, captcha verifiers.... [Scroll down to see working](#trailworking)
 
 > This project includes: **AI Based Autocatcher** (Selective, Shiny Hunt, Rare only), Market Sniper, **Replit Antibot bypasser**, Incense Sniper, Auction Sniper ⛔, **Captcha Solver**, Market Nuker, Poketwo account sweeper ⛔, Autopay for Pokecoins (Similar to Sellix)⛔
-
+The AI Catcher's code would be public on 75 Stars ⭐
 # Features
 - [x] **Replit bypassed...**
 - [x] AI Catcher
