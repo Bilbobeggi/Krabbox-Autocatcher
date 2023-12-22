@@ -15,6 +15,9 @@ An all purpose Pokétwo farming software which supports various features like AI
 - [x] Event Farmer
 - [x] Sniper
 
+## Trail/Working
+![proof](krabbox.gif)
+
 ## Commands
 > Documenting soon after release
 
