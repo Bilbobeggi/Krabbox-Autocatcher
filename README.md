@@ -54,7 +54,8 @@ An all purpose Pokétwo farming software which supports various features like AI
 # Trail/Working
 ![proof](krabbox.gif)
 ![console](https://cdn.discordapp.com/attachments/1182399914446160002/1187761314957901864/image.png?ex=65980fed&is=65859aed&hm=0495014a1d0ff407271165bc6136af28b1c5c566054ef6ebe9cbba111de2e568&)
-
+![command1](https://cdn.discordapp.com/attachments/1186978408706609193/1187780314668466227/image.png?ex=6598219e&is=6585ac9e&hm=34d00440599e6ab071793ca163c744408237a120dfa1cc15e300bcaa34ab3e17&)
+![command2](https://cdn.discordapp.com/attachments/1186978408706609193/1187780275841810534/image.png?ex=65982195&is=6585ac95&hm=a59cdf1477c56af84fa9c3f9d88ce5eccff1d6d7b0c0723eff0d5ac4f87ae603&)
 ## Download and Beta Testing
 
 To download and use the bot, join the test server: https://discord.gg/autocatch
