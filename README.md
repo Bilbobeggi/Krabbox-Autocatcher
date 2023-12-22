@@ -5,7 +5,7 @@ An all purpose Pokétwo farming software which supports various features like AI
 > 
 ### The AI Catcher's code would be public on 75 Stars ⭐
 # Features
-- [x] **Replit bypassed...**
+- [x] **Replit antibot bypass...**
 - [x] AI Catcher
 - [x] Antiban features
 - [x] Multilingual
