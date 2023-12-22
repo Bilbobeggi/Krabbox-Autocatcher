@@ -12,10 +12,12 @@ An all purpose Pokétwo farming software which supports various features like AI
 - [x] Autotrade / Bulk Trade
 - [x] Mass Market
 - [x] Captcha solver
+- [x] Event Farmer
+- [x] Sniper
 
 ## Commands
 > Documenting soon after release
 
 ## Download and Beta Testing
 
-To download and use the bot, join the test server: https://discord.gg/d25ApfNs
+To download and use the bot, join the test server: https://discord.gg/autocatch
